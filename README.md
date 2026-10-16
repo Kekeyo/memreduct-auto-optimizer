@@ -7,7 +7,7 @@
 ## ⚡ 极简上手指南（3秒搞定，终身免管）
 
 ### 场景 A：下载便携包 / 换到新电脑（最推荐）
-1. 下载并解压便携压缩包 `MemReduct_AutoOptimizer_Portable.zip`；
+1. 点击直链下载预调优便携包 👉 [**MemReduct_AutoOptimizer_Portable.zip**](https://github.com/Kekeyo/memreduct-auto-optimizer/releases/latest/download/MemReduct_AutoOptimizer_Portable.zip)（或前往 [GitHub Releases](https://github.com/Kekeyo/memreduct-auto-optimizer/releases/tag/v3.5.2-optimized) 下载最新版）；
 2. **直接双击运行其中的 `一键静默自启配置.bat`**：
    - 脚本会自动请求管理员权限；
    - 自动在 Windows 注册最高特权开机计划任务（彻底跳过 UAC 黄色弹窗）；
