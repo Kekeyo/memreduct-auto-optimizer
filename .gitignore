@@ -4,3 +4,6 @@ cache/
 *.log
 .DS_Store
 Thumbs.db
+
+# 压缩包文件
+*.zip
