@@ -1,0 +1,6 @@
+# 临时缓存与垃圾文件
+cache/
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
